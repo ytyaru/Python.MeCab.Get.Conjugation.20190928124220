@@ -2,6 +2,8 @@
 
 　PythonでMeCabのCSVから指定した用言の活用形一覧を取得する。
 
+* [辞書作成スクリプト](https://github.com/ytyaru/Shell.MeCab.IpaDic.Charset.Convert.20190823193042)
+
 # 開発環境
 
 * <time datetime="2019-09-28T12:41:33+0900">2019-09-28</time>
